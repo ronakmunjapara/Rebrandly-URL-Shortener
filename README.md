@@ -10,10 +10,9 @@ To get started with Rebrandly, follow these steps:
 
 
 1. **Creating Short URLs**
-   - To create a short URL, click on the "New Link" button on your dashboard.
    - Enter the original URL you want to shorten.
    - Customize the short URL slug if desired.
-   - Click "Save" to generate your short URL.
+   - Click "Shorten" to generate your short URL.
 
 ## Features
 
